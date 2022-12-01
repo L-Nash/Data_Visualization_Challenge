@@ -1,1 +1,1 @@
-# Data_Visualization_Challenge
+# Data_Visualization_Challenge   Used Two data sources to analyae the efficacy of treatment for a drug trial. First I prepared the data and generated statistics to summarize the data.  Then I used bar charts, pie charts, box plots, scatter plots to illustrate the findings. Lastly, I calculated the correlation and linear regression.
